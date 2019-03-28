@@ -1,3 +1,11 @@
 # DATA-VISUALIZATION-WITH-TABLEAU
 
-For the final project, you will create an explanatory data visualization from a data set that communicates a clear finding or that highlights relationships or patterns in a data set. Your work should be a reflection of the theory and practice of data visualization, and your final deliverable will be a write up along with a Tableau Public workbook.
+## SOFTWARE REQUIREMENTS
+You will need `Tableau Pulic` or `Tableau Desktop` to visualize this project.
+
+## PROJECT HIGHLIGHTS
+With this data visualisation, I want to understand the relation between the physical features of baseball players and their home run performances. I investigate this relation based on their heights, weights and handedness.
+
+## RESULTS SUMMARY
+Height and weight of the players have normal distributions.
+The best home run performance was achieved by players with a weight between 180 and 200 pounds, and a height between 71 and 76 inches.
